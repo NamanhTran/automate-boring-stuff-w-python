@@ -1,5 +1,3 @@
 # Automate the Boring Stuff with Python
 
-Learning practical Python
-
-Textbook: https://automatetheboringstuff.com/
+Learning Practical Python though [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/
